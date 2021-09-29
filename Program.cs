@@ -6,7 +6,7 @@ namespace Git_C__demo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!, this is version 2");
         }
     }
 }
